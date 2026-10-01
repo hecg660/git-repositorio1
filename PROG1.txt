@@ -8,3 +8,13 @@
 8. pantalla - https://dle.rae.es/pantalla
 9. archivo - https://dle.rae.es/archivo
 10. red - https://dle.rae.es/red
+abaldonar - https://dle.rae.es/abaldonar
+laberinto - https://dle.rae.es/laberinto
+caqui - https://dle.rae.es/caqui
+pared - https://dle.rae.es/pared?m=form
+tabaco - https://dle.rae.es/tabaco
+jabalina - https://dle.rae.es/jabalina
+ebriedad - https://dle.rae.es/ebriedad
+rabal - https://dle.rae.es/rabal
+nacionalidad - https://dle.rae.es/nacionalidad
+circonio - https://dle.rae.es/circonio
